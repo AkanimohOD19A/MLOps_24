@@ -1,0 +1,81 @@
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24
+$ git init
+Initialized empty Git repository in C:/Users/buasc/OneDrive/Desktop/MLOps_24/.git/
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ touch .gitignore
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ ls
+MLOps_24/  wk1/
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ cat .gitignore
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ nano .gitignore
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ cat .gitignore
+MLOps_24/*
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git add .
+warning: in the working copy of '.gitignore', LF will be replaced by CRLF the next time Git touches it
+error: 'wk1/' does not have a commit checked out
+fatal: adding files failed
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        wk1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git commit -m "Completed WK1"
+
+On branch master
+
+Initial commit
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        wk1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git status
+On branch master
+
+No commits yet
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+        .gitignore
+        wk1/
+
+nothing added to commit but untracked files present (use "git add" to track)
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git remote add origin https://github.com/AkanimohOD19A/MLOps_24.git
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git push origin master
+error: src refspec master does not match any
+error: failed to push some refs to 'https://github.com/AkanimohOD19A/MLOps_24.git'
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (master)
+$ git branch -m master main
+
+LENOVO@AfroLogicInsect MINGW64 ~/OneDrive/Desktop/MLOps_24 (main)
+$ git push origin main
+error: src refspec main does not match any
