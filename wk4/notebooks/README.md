@@ -15,7 +15,9 @@ Here, you have to
 `pip install pipenv`
 `pipenv --python 3.x` (put the appropriate python version in)
 `pipenv install <package>==<package.version`
-to then install the neccessary packages like os for sklearn
+to then install the neccessary packages like _os_, _sklearn_, etc
+
+Once this is done, indeed your __Pipfile__ and __Pipfile.lock__ files appear.
 
 #### Q5: Parametrize the script
 Parametrize here means that we use/set system variable that can accept values that it can now run from the terminal.
