@@ -29,7 +29,18 @@ year = int(sys.argv[2]) #2024
 month = int(sys.argv[3]) #3
 ```
 after you have the script, run the following in the terminal:
-`python script.py yellow 2023 4` - a print statement would handle the mean predicted duration for April 2023
+`python starter.py yellow 2023 4` - a print statement would handle the mean predicted duration for April 2023.
+
+You should have:
+```
+(MLOps_24) C:\Users\buasc\OneDrive\Desktop\MLOps_24\wk4\notebooks>python starter.py yellow 2023 4
+reading the data from https://d37ci6vzurychx.cloudfront.net/trip-data/yellow_tripdata_2023-04.parquet...
+loading the model with RUN_ID=../models/model.bin...
+applying the model...
+Q5. Mean of predictions: 14.292
+saving the result to ../output_files/yellow/2023-04.parquet...
+
+```
 
 #### Q6: Docker container
 Here, we breathe a sign of relief, last question.
