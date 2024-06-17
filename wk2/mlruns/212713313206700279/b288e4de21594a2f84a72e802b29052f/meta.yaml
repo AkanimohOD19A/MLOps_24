@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212713313206700279/b288e4de21594a2f84a72e802b29052f/artifacts
+end_time: 1718647461226
+entry_point_name: ''
+experiment_id: '212713313206700279'
+lifecycle_stage: active
+run_id: b288e4de21594a2f84a72e802b29052f
+run_name: popular-frog-468
+run_uuid: b288e4de21594a2f84a72e802b29052f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718647330201
+status: 3
+tags: []
+user_id: LENOVO

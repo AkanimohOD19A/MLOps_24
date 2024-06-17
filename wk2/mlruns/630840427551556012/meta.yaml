@@ -1,0 +1,6 @@
+artifact_location: mlflow-artifacts:/630840427551556012
+creation_time: 1718645912893
+experiment_id: '630840427551556012'
+last_update_time: 1718645912893
+lifecycle_stage: active
+name: sklearn-init

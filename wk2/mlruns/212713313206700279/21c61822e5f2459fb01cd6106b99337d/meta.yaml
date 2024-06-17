@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212713313206700279/21c61822e5f2459fb01cd6106b99337d/artifacts
+end_time: 1718647442450
+entry_point_name: ''
+experiment_id: '212713313206700279'
+lifecycle_stage: active
+run_id: 21c61822e5f2459fb01cd6106b99337d
+run_name: silent-mink-551
+run_uuid: 21c61822e5f2459fb01cd6106b99337d
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718647435532
+status: 3
+tags: []
+user_id: LENOVO

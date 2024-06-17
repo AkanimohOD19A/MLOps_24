@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212713313206700279/8ee3ecaed7ff4159a715e9e7fa1ec34e/artifacts
+end_time: 1718647343910
+entry_point_name: ''
+experiment_id: '212713313206700279'
+lifecycle_stage: active
+run_id: 8ee3ecaed7ff4159a715e9e7fa1ec34e
+run_name: rebellious-sloth-98
+run_uuid: 8ee3ecaed7ff4159a715e9e7fa1ec34e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718647342639
+status: 3
+tags: []
+user_id: LENOVO

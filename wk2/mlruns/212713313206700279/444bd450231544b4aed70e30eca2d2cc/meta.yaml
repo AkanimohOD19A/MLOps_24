@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212713313206700279/444bd450231544b4aed70e30eca2d2cc/artifacts
+end_time: 1718647401872
+entry_point_name: ''
+experiment_id: '212713313206700279'
+lifecycle_stage: active
+run_id: 444bd450231544b4aed70e30eca2d2cc
+run_name: skittish-hen-887
+run_uuid: 444bd450231544b4aed70e30eca2d2cc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718647382861
+status: 3
+tags: []
+user_id: LENOVO

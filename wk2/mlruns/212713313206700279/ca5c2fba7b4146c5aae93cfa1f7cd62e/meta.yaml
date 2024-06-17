@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/212713313206700279/ca5c2fba7b4146c5aae93cfa1f7cd62e/artifacts
+end_time: 1718647461206
+entry_point_name: ''
+experiment_id: '212713313206700279'
+lifecycle_stage: active
+run_id: ca5c2fba7b4146c5aae93cfa1f7cd62e
+run_name: gaudy-cub-156
+run_uuid: ca5c2fba7b4146c5aae93cfa1f7cd62e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1718647451057
+status: 3
+tags: []
+user_id: LENOVO

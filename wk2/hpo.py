@@ -33,7 +33,7 @@ def load_pickle(filename: str):
 )
 def run_optimization(data_path: str, num_trials: int):
     # Enable autolog
-    mlflow.sklearn.autolog()
+    # mlflow.sklearn.autolog()
     with mlflow.start_run():
         X_train, y_train = load_pickle(os.path.join(data_path, "train.pkl"))
         X_val, y_val = load_pickle(os.path.join(data_path, "val.pkl"))
